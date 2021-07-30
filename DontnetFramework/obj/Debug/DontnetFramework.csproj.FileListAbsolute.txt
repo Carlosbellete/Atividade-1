@@ -1,0 +1,7 @@
+C:\Users\belle\source\repos\DontnetFramework\DontnetFramework\bin\Debug\DontnetFramework.exe.config
+C:\Users\belle\source\repos\DontnetFramework\DontnetFramework\bin\Debug\DontnetFramework.exe
+C:\Users\belle\source\repos\DontnetFramework\DontnetFramework\bin\Debug\DontnetFramework.pdb
+C:\Users\belle\source\repos\DontnetFramework\DontnetFramework\obj\Debug\DontnetFramework.csproj.AssemblyReference.cache
+C:\Users\belle\source\repos\DontnetFramework\DontnetFramework\obj\Debug\DontnetFramework.csproj.CoreCompileInputs.cache
+C:\Users\belle\source\repos\DontnetFramework\DontnetFramework\obj\Debug\DontnetFramework.exe
+C:\Users\belle\source\repos\DontnetFramework\DontnetFramework\obj\Debug\DontnetFramework.pdb
